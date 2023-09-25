@@ -1,3 +1,4 @@
 NAMA:Aldi rahmadani
 NMP:22105110001
-PRODI:teknik informatika(d3)
+program studi:
+fakultas:teknik informatika
